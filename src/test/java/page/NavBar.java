@@ -3,9 +3,7 @@ package page;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-/**
- * Created by Wale on 09/02/2018.
- */
+
 public class NavBar extends GeneralMethod {
 
     public NavBar (WebDriver driver) {
