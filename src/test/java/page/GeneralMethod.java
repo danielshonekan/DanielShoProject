@@ -5,9 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-/**
- * Created by Wale on 09/02/2018.
- */
+
 public abstract class GeneralMethod {
 
     WebDriver driver ;
