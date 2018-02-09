@@ -4,9 +4,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 
-/**
- * Created by Wale on 09/02/2018.
- */
+
 public class WorkPage extends GeneralMethod {
 
     public WorkPage (WebDriver driver) {
