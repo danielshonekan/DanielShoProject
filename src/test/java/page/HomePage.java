@@ -5,9 +5,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 
-/**
- * Created by Wale on 09/02/2018.
- */
+
 public class HomePage extends GeneralMethod {
 
     public HomePage (WebDriver driver) {
