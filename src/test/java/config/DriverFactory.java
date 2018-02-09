@@ -5,9 +5,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 
-/**
- * Created by Wale on 09/02/2018.
- */
+
 public class DriverFactory {
 
     public static WebDriver driver = new FirefoxDriver() ;
